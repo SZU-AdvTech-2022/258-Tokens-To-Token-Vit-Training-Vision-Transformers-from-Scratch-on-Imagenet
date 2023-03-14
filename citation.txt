@@ -1,0 +1,8 @@
+@article{REPO-259,
+    author = "Yuan, Li and Chen, Yunpeng and Wang, Tao and Yu, Weihao and Shi, Yujun and Tay, Francis E. H. and Feng, Jiashi and Yan, Shuicheng",
+    journal = "CoRR",
+    title = "{Tokens-to-Token ViT: Training Vision Transformers from Scratch on ImageNet}",
+    url = "https://arxiv.org/abs/2101.11986",
+    volume = "abs/2101.11986",
+    year = "2021"
+}
